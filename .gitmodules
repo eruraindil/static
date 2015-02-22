@@ -1,60 +1,60 @@
 [submodule "FitText.js"]
 	path = src/FitText.js
-	url = git://github.com/davatron5000/FitText.js.git
+	url = https://github.com/davatron5000/FitText.js.git
 
 [submodule "FlowType.JS"]
 	path = src/FlowType.JS
-	url = git://github.com/simplefocus/FlowType.JS.git
+	url = https://github.com/simplefocus/FlowType.JS.git
 
 [submodule "animate.css"]
 	path = src/animate.css
-	url = git://github.com/daneden/animate.css.git
+	url = https://github.com/daneden/animate.css.git
 
 [submodule "bootstrap"]
 	path = src/bootstrap
-	url = git://github.com/twbs/bootstrap.git
+	url = https://github.com/twbs/bootstrap.git
 
 [submodule "card"]
 	path = src/card
-	url = git://github.com/jessepollak/card.git
+	url = https://github.com/jessepollak/card.git
 
 [submodule "dropcap.js"]
 	path = src/dropcap.js
-	url = git://github.com/adobe-webplatform/dropcap.js.git
+	url = https://github.com/adobe-webplatform/dropcap.js.git
 
 [submodule "Font-Awesome"]
 	path = src/Font-Awesome
-	url = git://github.com/FortAwesome/Font-Awesome.git
+	url = https://github.com/FortAwesome/Font-Awesome.git
 
 [submodule "html5-boilerplate"]
 	path = src/html5-boilerplate
-	url = git://github.com/h5bp/html5-boilerplate.git
+	url = https://github.com/h5bp/html5-boilerplate.git
 
 [submodule "html5shiv"]
 	path = src/html5shiv
-	url = git://github.com/aFarkas/html5shiv.git
+	url = https://github.com/aFarkas/html5shiv.git
 
 [submodule "jquery-hoverIntent"]
 	path = src/jquery-hoverIntent
-	url = git://github.com/briancherne/jquery-hoverIntent.git
+	url = https://github.com/briancherne/jquery-hoverIntent.git
 
 [submodule "skrollr"]
 	path = src/skrollr
-	url = git://github.com/Prinzhorn/skrollr.git
+	url = https://github.com/Prinzhorn/skrollr.git
 
 [submodule "skrollr-ie"]
 	path = src/skrollr-ie
-	url = git://github.com/Prinzhorn/skrollr-ie.git
+	url = https://github.com/Prinzhorn/skrollr-ie.git
 
 [submodule "skrollr-menu"]
 	path = src/skrollr-menu
-	url = git://github.com/Prinzhorn/skrollr-menu.git
+	url = https://github.com/Prinzhorn/skrollr-menu.git
 
 [submodule "slick"]
 	path = src/slick
-	url = git://github.com/kenwheeler/slick.git
+	url = https://github.com/kenwheeler/slick.git
 
 [submodule "superfish"]
 	path = src/superfish
-	url = git://github.com/joeldbirch/superfish.git
+	url = https://github.com/joeldbirch/superfish.git
 
