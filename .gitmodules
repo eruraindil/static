@@ -57,3 +57,10 @@
 [submodule "superfish"]
 	path = src/superfish
 	url = https://github.com/joeldbirch/superfish.git
+
+[submodule "src/materialize"]
+	path = src/materialize
+	url = https://github.com/Dogfalo/materialize.git
+[submodule "src/bootstrap-material-design"]
+	path = src/bootstrap-material-design
+	url = https://github.com/FezVrasta/bootstrap-material-design.git
