@@ -64,3 +64,6 @@
 [submodule "src/bootstrap-material-design"]
 	path = src/bootstrap-material-design
 	url = https://github.com/FezVrasta/bootstrap-material-design.git
+[submodule "src/Respond"]
+	path = src/Respond
+	url = https://github.com/scottjehl/Respond.git
