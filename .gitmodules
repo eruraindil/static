@@ -67,3 +67,6 @@
 [submodule "src/Respond"]
 	path = src/Respond
 	url = https://github.com/scottjehl/Respond.git
+[submodule "src/Typist"]
+	path = src/Typist
+	url = https://github.com/positionly/Typist.git
