@@ -1,1 +1,1 @@
-src/jquery/jquery-1.11.2.min.js
+src/html5-boilerplate/dist/js/vendor/jquery-1.11.3.min.js
