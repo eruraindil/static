@@ -77,3 +77,6 @@
 [submodule "src/WOW"]
 	path = src/WOW
 	url = https://github.com/matthieua/WOW.git
+[submodule "src/masonry"]
+	path = src/masonry
+	url = https://github.com/desandro/masonry.git
